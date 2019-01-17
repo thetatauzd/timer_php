@@ -1,0 +1,7 @@
+0,2019-01-13 20:34:46,00:06:00
+
+
+only the first line is ever gotten here
+the first value is either running or not running (0 or 1)
+the second value is when the timer was started
+the third value is the initial duration
